@@ -11,6 +11,8 @@
 ![alt text](https://github.com/thesayraj/file-safe/blob/main/images/ss4.png)
 
 ![alt text](https://github.com/thesayraj/file-safe/blob/main/images/ss5.png)
+<br/>
+<br/>
 
 #### Previewing an Image from safe
 ![screenshot](https://github.com/thesayraj/file-safe/blob/main/images/ss6.png)
