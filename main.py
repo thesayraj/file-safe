@@ -36,8 +36,6 @@ class StartPage(tk.Frame):
         # self.listbox.focus_set()
 
     def show_data(self):
-        # dummy..
-        # string = "how are u doing man.. this is all righkjsdkf andk this  is me and t be suer abut my positivity is my strength"
         # data = string.split()
         ids, file_names = self.get_stored_file_info()
         self.listbox = Listbox(self, width=40)
